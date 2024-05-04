@@ -1,4 +1,5 @@
 # SQL-Project 
+
 ## Library Management System
 * This project is a simple Library Management System database implemented in MySQL.
 * It provides a relational database schema to manage various aspects of a library system, including publishers, borrowers, library branches, books, book authors, book copies, and book loans.
@@ -49,10 +50,11 @@ Several SQL queries are provided to perform common library management tasks, inc
 * It illustrates the entities (such as tables) in the database, their attributes, and the relationships between them.
 * Viewing the ER diagram can help users understand the structure of the database and how different entities are connected.
 
-For a visual representation of the database schema, please refer to the [ER Diagram](link-to-your-er-diagram-page) page.
+* For a visual representation of the database schema, please refer to the [ER Diagram](https://github.com/ayeshasidhikha188/SQL-Project-/blob/main/ER%20diagram%20of%20Library.mwb) page.
 
 ### Contributing
-Contributions to this project are welcome. If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+* Contributions to this project are welcome.
+* If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ### License
 This project is licensed under the MIT License.
