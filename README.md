@@ -1,8 +1,8 @@
 # SQL-Project 
-## Library Management System**
+## Library Management System
 This project is a simple Library Management System database implemented in MySQL. It provides a relational database schema to manage various aspects of a library system, including publishers, borrowers, library branches, books, book authors, book copies, and book loans.
 
-## Table of Contents**
+## Table of Contents
   Introduction
   Schema Overview
   Queries
@@ -10,10 +10,12 @@ This project is a simple Library Management System database implemented in MySQL
  Contributing
  License
  
-### Introduction**
+### Introduction
 The Library Management System is designed to efficiently manage the operations of a library, including tracking books, borrowers, and loans. This project aims to provide a robust database schema and a set of SQL queries for common library management tasks.
+![image](https://github.com/ayeshasidhikha188/SQL-Project-/assets/147414813/ba1ec543-2ef8-42bd-876d-5f4f65bc96b2)
 
-### Schema Overview**
+
+### Schema Overview
 The database schema consists of the following tables:
 
 **tbl_publisher**: Stores information about book publishers.
